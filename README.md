@@ -44,7 +44,7 @@ I'm currently a 3rd year computer science student 👨‍🎓</h4>
 
 ![Lital Porat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=litalporat&show_icons=true&theme=tokyonight)
 
-![Profile views](https://gpvc.arturio.dev/litalporat)  
+![Profile views](https://komarev.com/ghpvc/?username=Litalporat&color=ff69b4)
 
 
 
