@@ -1,10 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/litalporat/Litalporat/blob/main/resources/img/wave.gif">, I'm Lital</h1>
-<h3 align="center">I'm a passionate and enthusiastic software developer</h3>
-<h4 align="center">I'm a self-taught, continuously searching for greater challenges and have great team working abilities 💪
-<br/>
-I'm currently a 3rd year computer science student 👨‍🎓</h4>
-</div>
+<h3 align="center">I'm a passionate and enthusiastic Software Developer</h3>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/litalporat/Litalporat/blob/main/resources/img/divider.gif"></a>
 <div align="center">
